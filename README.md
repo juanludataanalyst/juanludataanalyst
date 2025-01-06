@@ -1,4 +1,4 @@
-## Freelance Data Analyst living between Europa and Latam
+## Freelance Data Analyst living between Europe and Latam
 
 <!--
 **juanludataanalyst/juanludataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
