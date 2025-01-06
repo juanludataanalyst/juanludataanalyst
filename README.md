@@ -1,5 +1,7 @@
-## Data-Driven Value Creator: 
-### Leverage your data into business opportunities and process optimization 
+
+## 💎 Data-Driven Value Creator:  
+### 💰Leverage your data into business opportunities and process optimization 
+
 <!--
 **juanludataanalyst/juanludataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
