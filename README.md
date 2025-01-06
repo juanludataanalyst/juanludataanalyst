@@ -1,4 +1,4 @@
-## Passionate Data Analyst living between Europe and Latam
+## Passionate Data Analyst with a global perspective, currently based between Europe and Latin America
 
 <!--
 **juanludataanalyst/juanludataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
