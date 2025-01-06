@@ -1,4 +1,4 @@
-##  Data-Driven Value Creator: 💎  <br><br>
+##  Data-Driven Value Creator 💎  <br><br>
 
   
 
