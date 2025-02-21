@@ -11,8 +11,10 @@ This web application helps professionals identify the most sought-after skills f
 
 🔗 **Live App**: [Most In-Demand Skills App](https://mostindemandskills.streamlit.app/)  
 
+🔗 **GitHub Repository**: [Most In-Demand Skills](https://github.com/juanludataanalyst/most_indemand_skills_streamlit_app)  
+
 <p align="center">
-  <img src="streamlitapp_image.PNG" alt="Most In-Demand Skills App Screenshot" width="600px" />
+  <img src="streamlitapp_image.PNG" alt="Most In-Demand Skills App Screenshot" width="400px" />
 </p>
 
 **Key Features**:  
@@ -34,20 +36,24 @@ This web application helps professionals identify the most sought-after skills f
 
 This tool is designed to assist job seekers and professionals in making data-driven decisions about skill development, ultimately improving their career opportunities.  
 
+---
+
 ### [🏨 Data Pipeline for Hostal R10](https://github.com/juanludataanalyst/data_pipeline_hostalR10_py)  
 
 A fully automated data pipeline for collecting and processing reservation data for Hostal R10, built with Python.  
+
+🔗 **GitHub Repository**: [Data Pipeline Hostal R10](https://github.com/juanludataanalyst/data_pipeline_hostalR10_py)  
 
 ---
 
 ## 🎤 Talks  
 
-📹 **[Data Analytics for Business Growth](https://www.youtube.com/watch?v=bKJsZl16Ifs)**  
-A talk on how data analytics can drive strategic business decisions.  
+📹 **[Tidyverse for Data Analysis - Sevilla R Users Group](https://www.youtube.com/watch?v=bKJsZl16Ifs)**  
+A talk about using the `tidyverse` library in R for data analysis, presented at the Sevilla R Users Group.  
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=bKJsZl16Ifs&t=180">
-    <img src="https://img.youtube.com/vi/bKJsZl16Ifs/1.jpg" alt="YouTube Video - Minute 3" width="600px" />
+  <a href="https://www.youtube.com/watch?v=bKJsZl16Ifs">
+    <img src="https://img.youtube.com/vi/bKJsZl16Ifs/0.jpg" alt="YouTube Video Thumbnail" width="400px" />
   </a>
 </p>
 
