@@ -12,8 +12,13 @@
 🔗 **Live App**: [CV Adapter – ATS Optimizer](https://cvgenerator.streamlit.app/)  
 🔗 **GitHub Repository**: [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
 
+
 <p align="center">
-  <img src="demo/demo.gif" alt="CV Adapter Video Demo" width="400px" />
+  <img src="https://github.com/juanludataanalyst/job_portal/raw/main/demo/video.gif" alt="Tech Job Portal Demo" width="400px" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/juanludataanalyst/cv_generator/raw/main/demo.gif" alt="CV Adapter Video Demo" width="400px" />
 </p>
 
 **Key Features**:
