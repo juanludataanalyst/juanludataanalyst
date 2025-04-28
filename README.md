@@ -14,11 +14,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/juanludataanalyst/job_portal/raw/main/demo/video.gif" alt="Tech Job Portal Demo" width="400px" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/juanludataanalyst/cv_generator/raw/main/demo.gif" alt="CV Adapter Video Demo" width="400px" />
+  <img src="https://github.com/juanludataanalyst/cv_generator/raw/main/demo.gif" alt="CV Adapter Video Demo" width="500px" />
 </p>
 
 **Key Features**:
