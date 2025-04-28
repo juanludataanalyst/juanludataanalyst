@@ -5,10 +5,45 @@
 
 ## 🚀 Main Projects  
 
+### [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
+
+**Your personal AI assistant for job applications.** Effortlessly transform your PDF resume to perfectly match any job description and maximize your chances of passing Applicant Tracking Systems (ATS).
+
+🔗 **Live App**: [CV Adapter – ATS Optimizer](https://cvgenerator.streamlit.app/)  
+🔗 **GitHub Repository**: [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
+
+<p align="center">
+  <img src="demo/demo.gif" alt="CV Adapter Video Demo" width="400px" />
+</p>
+
+**Key Features**:
+
+- **AI-powered Adaptation**: Uses LLMs to rewrite your CV, highlighting relevant skills and keywords based in the job
+- **ATS Score Calculation**: See your match score before and after optimization.
+- **Download & Export**: Get your new CV as PDF or YAML for editing
+- **Modern, User-Friendly UI**: Built with Streamlit for a seamless experience.
+
+
+**How It Works**
+
+1. **Upload your CV as a PDF** using a simple drag-and-drop interface.
+2. **Paste a job description** (either as a URL or full text). If you provide a URL, the app will automatically scrape and extract the job details for you.
+3. **AI analyzes your CV and the job description**: The system compares your experience, skills, and keywords with those required in the job offer using advanced language models.
+4. **Your CV is adapted and optimized**: The app rewrites and restructures your resume to highlight the most relevant information for the job, maximizing your ATS score and visibility to recruiters.
+5. **Get instant feedback**: See your ATS match score before and after optimization, so you know exactly how your CV has improved.
+6. **Download your optimized CV** as a PDF, HTML, or YAML file, or upload it directly to your Google Drive for easy sharing and safekeeping.
+7. **Apply with confidence**: Use your tailored CV to stand out in any application process, whether in English or Spanish.
+
+**Example Use Cases**
+- Applying to jobs in different countries or sectors
+- Quickly adapting your CV for multiple applications
+- Improving interview chances by targeting keywords
+
+---
+
 ### [💼 Tech Job Portal](https://github.com/juanludataanalyst/job_portal)
 
 A smart job portal for the tech sector that uses AI and semantic search to recommend the most relevant job offers to each user.
-
 
 🔗 **Live App**: [Tech Job Portal](https://jobsite.streamlit.app/ai_searching)  
 🔗 **GitHub Repository**: [Tech Job Portal](https://github.com/juanludataanalyst/job_portal)
@@ -38,6 +73,7 @@ A smart job portal for the tech sector that uses AI and semantic search to recom
 
 This project empowers tech professionals to discover new job opportunities and understand the reasoning behind each recommendation.
 
+---
 
 ### [📊 Most In-Demand Skills App](https://github.com/juanludataanalyst/most_indemand_skills_streamlit_app)  
 
@@ -83,7 +119,7 @@ A fully automated data pipeline for collecting and processing reservation data f
 ## 🎤 Talks  
 
 📹 **[Tidyverse for Data Analysis - Sevilla R Users Group](https://www.youtube.com/watch?v=bKJsZl16Ifs)**  
-A talk about using the `tidyverse` library in R for data analysis, presented at the Sevilla R Users Group.  
+A talk about using the `tidyverse` library in R for data analysis, presented at the Sevilla R Users Group.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=bKJsZl16Ifs">
@@ -111,3 +147,9 @@ A talk about using the `tidyverse` library in R for data analysis, presented at 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanludataanlyst)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanludataanalyst)
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by Juan Luis Pérez</sub>
+</p>
