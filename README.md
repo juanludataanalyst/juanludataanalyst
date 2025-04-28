@@ -5,6 +5,40 @@
 
 ## 🚀 Main Projects  
 
+### [💼 Tech Job Portal](https://github.com/juanludataanalyst/job_portal)
+
+A smart job portal for the tech sector that uses AI and semantic search to recommend the most relevant job offers to each user.
+
+
+🔗 **Live App**: [Tech Job Portal](https://jobsite.streamlit.app/ai_searching)  
+🔗 **GitHub Repository**: [Tech Job Portal](https://github.com/juanludataanalyst/job_portal)
+
+<p align="center">
+  <img src="https://github.com/juanludataanalyst/job_portal/raw/main/demo/video.gif" alt="Tech Job Portal Demo" width="400px" />
+</p>
+
+**Key Features**:
+
+- **Semantic Search**: Find tech jobs using natural language and AI-powered matching.
+- **AI Explanations**: Get clear, automatic explanations of why each job fits your profile.
+- **Modern, Intuitive UI**: Built with Streamlit and custom CSS for a smooth user experience.
+- **Easy to Use**: Just run and explore – no technical setup required!
+
+**How It Works**
+
+1️⃣ **Data Collector**: The portal loads and organizes job offer data from multiple sources, storing them in structured files for efficient access.
+
+2️⃣ **Embeddings Generation**: Each job offer is converted into a high-dimensional vector using state-of-the-art language models (`sentence-transformers`). This allows the system to understand the meaning and context of each job description.
+
+3️⃣ **Semantic Matching**: When a user enters a search query, it is also embedded into a vector. The system calculates the similarity between the user query and all job offers using cosine similarity, surfacing the most relevant results.
+
+4️⃣ **AI-Powered Explanations**: For each search, the portal uses large language models (via Together AI) to generate clear, personalized explanations of why each job offer matches the user’s query.
+
+5️⃣ **Interactive Experience**: All results and explanations are presented in a modern, interactive Streamlit interface, making it easy to explore opportunities and understand your best matches.
+
+This project empowers tech professionals to discover new job opportunities and understand the reasoning behind each recommendation.
+
+
 ### [📊 Most In-Demand Skills App](https://github.com/juanludataanalyst/most_indemand_skills_streamlit_app)  
 
 This web application helps professionals identify the most sought-after skills for different job roles across various countries. It also provides personalized recommendations on which skills to learn next based on user input, leveraging machine learning techniques and web scraping from multiple job portals.  
