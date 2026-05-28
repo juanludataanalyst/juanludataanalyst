@@ -61,13 +61,6 @@ AI assistant that rewrites your CV to match any job description and maximize ATS
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=juanludataanalyst&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanludataanalyst&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160" />
-</p>
-
 ## 🎤 Talks
 
 📹 **[Tidyverse for Data Analysis – Sevilla R Users Group](https://www.youtube.com/watch?v=bKJsZl16Ifs)**
