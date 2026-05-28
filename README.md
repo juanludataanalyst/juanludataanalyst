@@ -6,7 +6,8 @@ Currently building GenAI products in **EdTech** and **SaaS**
 
 ## 💼 Currently Building
 
-**AI/Backend Engineer · Litreal** EdTech platform teaching literature to children through AI.
+**AI/Backend Engineer · Litreal**  
+EdTech platform teaching literature to children through AI.
 Lead architect of the full backend. Building GenAI character agents that emulate classic book characters with LangChain, LangGraph, OpenAI & Anthropic APIs and RAG over vector databases.
 
 **Building a GenAI SaaS** powered by multi-agent LangGraph systems. Core patterns open sourced in [LangGraph Conversational Patterns ⭐ 20](https://github.com/juanludataanalyst/langgraph-conversational-patterns).
