@@ -1,156 +1,92 @@
-##  Data-Driven Value Creator 💎  
-### Leveraging data into business opportunities 💰  
+# Hi, I'm Juanlu 👋
+
+**AI Engineer** building production GenAI agents, RAG pipelines and multi-agent systems.  
+I ship full-stack AI products end to end — from LLM backend to React/Next.js frontend.  
+Based in Spain 🇪🇸 · Currently building GenAI products in **EdTech** and **SaaS**
 
 ---
 
-## 🚀 Main Projects  
+## 💼 Currently Building
 
-### [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
+**AI/Backend Engineer · Litreal** — EdTech platform teaching literature to children through AI.  
+Lead architect of the full backend. Building GenAI character agents that emulate classic book characters with LangChain, LangGraph, OpenAI & Anthropic APIs and RAG over vector databases.
 
-**Your personal AI assistant for job applications.** Effortlessly transform your PDF resume to perfectly match any job description and maximize your chances of passing Applicant Tracking Systems (ATS).
-
-🔗 **Live App**: [CV Adapter – ATS Optimizer](https://cvgenerator.streamlit.app/)  
-🔗 **GitHub Repository**: [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
-
-
-<p align="center">
-  <img src="https://github.com/juanludataanalyst/cv_generator/raw/main/demo.gif" alt="CV Adapter Video Demo" width="500px" />
-</p>
-
-**Key Features**:
-
-- **AI-powered Adaptation**: Uses LLMs to rewrite your CV, highlighting relevant skills and keywords based in the job
-- **ATS Score Calculation**: See your match score before and after optimization.
-- **Download & Export**: Get your new CV as PDF or YAML for editing
-- **Modern, User-Friendly UI**: Built with Streamlit for a seamless experience.
-
-
-**How It Works**
-
-1. **Upload your CV as a PDF** using a simple drag-and-drop interface.
-2. **Paste a job description** (either as a URL or full text). If you provide a URL, the app will automatically scrape and extract the job details for you.
-3. **AI analyzes your CV and the job description**: The system compares your experience, skills, and keywords with those required in the job offer using advanced language models.
-4. **Your CV is adapted and optimized**: The app rewrites and restructures your resume to highlight the most relevant information for the job, maximizing your ATS score and visibility to recruiters.
-5. **Get instant feedback**: See your ATS match score before and after optimization, so you know exactly how your CV has improved.
-6. **Download your optimized CV** as a PDF, HTML, or YAML file, or upload it directly to your Google Drive for easy sharing and safekeeping.
-7. **Apply with confidence**: Use your tailored CV to stand out in any application process, whether in English or Spanish.
-
-**Example Use Cases**
-- Applying to jobs in different countries or sectors
-- Quickly adapting your CV for multiple applications
-- Improving interview chances by targeting keywords
+**Building a GenAI SaaS** powered by multi-agent LangGraph systems. Core patterns open sourced in [LangGraph Conversational Patterns ⭐ 20](https://github.com/juanludataanalyst/langgraph-conversational-patterns).
 
 ---
 
-### [💼 Tech Job Portal](https://github.com/juanludataanalyst/job_portal)
+## 🚀 Projects
 
-A smart job portal for the tech sector that uses AI and semantic search to recommend the most relevant job offers to each user.
+### 🎭 [Guess the Character](https://www.guessthecharacter.online/)
+AI game where you interrogate LLM-simulated historical figures and compete on a global leaderboard.  
+`Next.js` `TypeScript` `Python` `LLMs` · [**Play live →**](https://www.guessthecharacter.online/)
 
-🔗 **Live App**: [Tech Job Portal](https://jobsite.streamlit.app/ai_searching)  
-🔗 **GitHub Repository**: [Tech Job Portal](https://github.com/juanludataanalyst/job_portal)
+### 🤖 [LangGraph Conversational Patterns](https://github.com/juanludataanalyst/langgraph-conversational-patterns) ⭐ 20
+Production-ready agentic conversation patterns: booking, corrections, appointment modifications.  
+Each pattern includes video tutorials and a Medium deep-dive.  
+`LangGraph` `Python` `Agents` `RAG`
 
-<p align="center">
-  <img src="https://github.com/juanludataanalyst/job_portal/raw/main/demo/video.gif" alt="Tech Job Portal Demo" width="400px" />
-</p>
-
-**Key Features**:
-
-- **Semantic Search**: Find tech jobs using natural language and AI-powered matching.
-- **AI Explanations**: Get clear, automatic explanations of why each job fits your profile.
-- **Modern, Intuitive UI**: Built with Streamlit and custom CSS for a smooth user experience.
-- **Easy to Use**: Just run and explore – no technical setup required!
-
-**How It Works**
-
-1️⃣ **Data Collector**: The portal loads and organizes job offer data from multiple sources, storing them in structured files for efficient access.
-
-2️⃣ **Embeddings Generation**: Each job offer is converted into a high-dimensional vector using state-of-the-art language models (`sentence-transformers`). This allows the system to understand the meaning and context of each job description.
-
-3️⃣ **Semantic Matching**: When a user enters a search query, it is also embedded into a vector. The system calculates the similarity between the user query and all job offers using cosine similarity, surfacing the most relevant results.
-
-4️⃣ **AI-Powered Explanations**: For each search, the portal uses large language models (via Together AI) to generate clear, personalized explanations of why each job offer matches the user’s query.
-
-5️⃣ **Interactive Experience**: All results and explanations are presented in a modern, interactive Streamlit interface, making it easy to explore opportunities and understand your best matches.
-
-This project empowers tech professionals to discover new job opportunities and understand the reasoning behind each recommendation.
+### 📄 [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
+AI assistant that rewrites your CV to match any job description and maximize ATS scores.  
+`Python` `Streamlit` `LLMs` · [**Try it →**](https://cvgenerator.streamlit.app/)
 
 ---
 
-### [📊 Most In-Demand Skills App](https://github.com/juanludataanalyst/most_indemand_skills_streamlit_app)  
+## 🛠 Tech Stack
 
-This web application helps professionals identify the most sought-after skills for different job roles across various countries. It also provides personalized recommendations on which skills to learn next based on user input, leveraging machine learning techniques and web scraping from multiple job portals.  
+**GenAI / LLM**
 
-🔗 **Live App**: [Most In-Demand Skills App](https://mostindemandskills.streamlit.app/)  
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square)
 
-🔗 **GitHub Repository**: [Most In-Demand Skills](https://github.com/juanludataanalyst/most_indemand_skills_streamlit_app)  
+**Backend**
 
-<p align="center">
-  <img src="streamlitapp_image.PNG" alt="Most In-Demand Skills App Screenshot" width="400px" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-**Key Features**:  
+**Frontend**
 
-- **Job Market Analysis**: The app gathers and processes job postings from various sources to extract the most frequently mentioned skills for different roles and regions.  
-- **Smart Analysis & Personalized Recommendations**: Using machine learning algorithms, the app detects patterns and relationships between skills. Based on the user’s existing skill set, it suggests additional skills to enhance job market competitiveness.  
-- **User-Friendly Interface**: Built with Streamlit, ensuring an intuitive and interactive experience.  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**How It Works**  
+**Databases**
 
-1️⃣ **Data Collection**: The app extracts job data from multiple job portals using web scraping and organizes it by date, country, and role.  
-   ➝ [View code and explanation in my GitHub](https://github.com/juanludataanalyst/indeed_data_scraper_request)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-2️⃣ **Skill Extraction**: Relevant skills are identified from job descriptions and stored in a structured format.  
+**Cloud / DevOps**
 
-3️⃣ **Machine Learning Integration**: Association rule mining techniques uncover relationships between skills.  
-
-4️⃣ **Recommendations**: Users enter their current skills, and the app suggests additional skills to learn, optimizing employability prospects.  
-
-This tool is designed to assist job seekers and professionals in making data-driven decisions about skill development, ultimately improving their career opportunities.  
-
----
-
-### [🏨 Data Pipeline for Hostal R10](https://github.com/juanludataanalyst/data_pipeline_hostalR10_py)  
-
-A fully automated data pipeline for collecting and processing reservation data for Hostal R10, built with Python.  
-
-🔗 **GitHub Repository**: [Data Pipeline Hostal R10](https://github.com/juanludataanalyst/data_pipeline_hostalR10_py)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
-## 🎤 Talks  
+## 📊 GitHub Stats
 
-📹 **[Tidyverse for Data Analysis - Sevilla R Users Group](https://www.youtube.com/watch?v=bKJsZl16Ifs)**  
-A talk about using the `tidyverse` library in R for data analysis, presented at the Sevilla R Users Group.
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=bKJsZl16Ifs">
-    <img src="https://img.youtube.com/vi/bKJsZl16Ifs/0.jpg" alt="YouTube Video Thumbnail" width="400px" />
-  </a>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanludataanalyst&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanludataanalyst&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160" />
 </p>
 
 ---
 
-## 🛠 Tech Stack  
+## 🎤 Talks
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="60px" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="60px" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" width="120px" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" width="150px" />
-</p>
+📹 **[Tidyverse for Data Analysis – Sevilla R Users Group](https://www.youtube.com/watch?v=bKJsZl16Ifs)**
 
 ---
 
-### 📫 Connect with me  
+## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanludataanlyst)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanludataanalyst)
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by Juan Luis Pérez</sub>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanludataanlyst)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@juanluaiengineer)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@juanluaiengineer)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juanluaiengineer@gmail.com)
