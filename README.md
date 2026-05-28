@@ -1,36 +1,30 @@
 # Hi, I'm Juanlu 👋
 
-**AI Engineer** building production GenAI agents, RAG pipelines and multi-agent systems.  
-I ship full-stack AI products end to end — from LLM backend to React/Next.js frontend.  
-Based in Spain 🇪🇸 · Currently building GenAI products in **EdTech** and **SaaS**
-
----
+**AI Engineer** building production GenAI agents, RAG pipelines and multi-agent systems.
+I ship full-stack AI products end to end — from LLM backend to React/Next.js frontend.
+Currently building GenAI products in **EdTech** and **SaaS**
 
 ## 💼 Currently Building
 
-**AI/Backend Engineer · Litreal** — EdTech platform teaching literature to children through AI.  
+**AI/Backend Engineer · Litreal** — EdTech platform teaching literature to children through AI.
 Lead architect of the full backend. Building GenAI character agents that emulate classic book characters with LangChain, LangGraph, OpenAI & Anthropic APIs and RAG over vector databases.
 
 **Building a GenAI SaaS** powered by multi-agent LangGraph systems. Core patterns open sourced in [LangGraph Conversational Patterns ⭐ 20](https://github.com/juanludataanalyst/langgraph-conversational-patterns).
 
----
-
 ## 🚀 Projects
 
 ### 🎭 [Guess the Character](https://www.guessthecharacter.online/)
-AI game where you interrogate LLM-simulated historical figures and compete on a global leaderboard.  
+AI game where you interrogate LLM-simulated historical figures and compete on a global leaderboard.
 `Next.js` `TypeScript` `Python` `LLMs` · [**Play live →**](https://www.guessthecharacter.online/)
 
 ### 🤖 [LangGraph Conversational Patterns](https://github.com/juanludataanalyst/langgraph-conversational-patterns) ⭐ 20
-Production-ready agentic conversation patterns: booking, corrections, appointment modifications.  
-Each pattern includes video tutorials and a Medium deep-dive.  
+Production-ready agentic conversation patterns: booking, corrections, appointment modifications.
+Each pattern includes video tutorials and a Medium deep-dive.
 `LangGraph` `Python` `Agents` `RAG`
 
 ### 📄 [CV Adapter – ATS Optimizer](https://github.com/juanludataanalyst/cv_generator)
-AI assistant that rewrites your CV to match any job description and maximize ATS scores.  
+AI assistant that rewrites your CV to match any job description and maximize ATS scores.
 `Python` `Streamlit` `LLMs` · [**Try it →**](https://cvgenerator.streamlit.app/)
-
----
 
 ## 🛠 Tech Stack
 
@@ -67,8 +61,6 @@ AI assistant that rewrites your CV to match any job description and maximize ATS
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <p align=center>
@@ -76,13 +68,9 @@ AI assistant that rewrites your CV to match any job description and maximize ATS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanludataanalyst&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160" />
 </p>
 
----
-
 ## 🎤 Talks
 
 📹 **[Tidyverse for Data Analysis – Sevilla R Users Group](https://www.youtube.com/watch?v=bKJsZl16Ifs)**
-
----
 
 ## 📫 Connect
 
